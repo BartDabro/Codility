@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d261fca5-2e37-4770-9ab9-fd9c0977f480" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/co/uk/sda/london/MinAvgTwoSlice.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/co/uk/sda/london/CountDiv.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/uk/sda/london/CountDiv.java" afterDir="false" />
     </list>
@@ -28,11 +28,24 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/co/uk/sda/london/CountDiv.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="85" column="29" lean-forward="true" selection-end-line="111" />
+            <state relative-caret-position="-1037">
+              <caret line="38" column="13" lean-forward="true" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/co/uk/sda/london/MinAvgTwoSlice.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+              <folding>
+                <element signature="e#100#101#0" expanded="true" />
+                <element signature="e#128#129#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -70,6 +83,7 @@
         <option value="$PROJECT_DIR$/src/main/java/co/uk/sda/london/Distinct.java" />
         <option value="$PROJECT_DIR$/src/main/java/co/uk/sda/london/Triangle.java" />
         <option value="$PROJECT_DIR$/src/main/java/co/uk/sda/london/CountDiv.java" />
+        <option value="$PROJECT_DIR$/src/main/java/co/uk/sda/london/MinAvgTwoSlice.java" />
       </list>
     </option>
   </component>
@@ -87,7 +101,9 @@
     <option name="width" value="1366" />
     <option name="height" value="728" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -258,12 +274,12 @@
       <workItem from="1576251983561" duration="6118000" />
       <workItem from="1576269344332" duration="635000" />
       <workItem from="1576270029678" duration="4321000" />
-      <workItem from="1576320100017" duration="6790000" />
+      <workItem from="1576320100017" duration="8588000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50709000" />
+    <option name="totallyTimeSpent" value="52507000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="98" width="1382" height="744" extended-state="6" />
@@ -434,8 +450,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/co/uk/sda/london/CountDiv.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="85" column="29" lean-forward="true" selection-end-line="111" />
+        <state relative-caret-position="-1037">
+          <caret line="38" column="13" lean-forward="true" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/uk/sda/london/MinAvgTwoSlice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+          <folding>
+            <element signature="e#100#101#0" expanded="true" />
+            <element signature="e#128#129#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

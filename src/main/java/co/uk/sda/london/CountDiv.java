@@ -63,8 +63,6 @@ public class CountDiv {
                                 return 1;
                             }
                         }
-
-
                     }
                     else{
                         if(A%K==0)
